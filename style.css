@@ -1,0 +1,17 @@
+
+body{
+    background-color: rgb(203, 218, 213);
+}
+
+div{
+    background-color: brown;
+    margin: 100px 400px;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 40px 30px 50px rgb(136, 17, 130);
+
+}
+
+p, h1{
+    color: cornsilk;
+}
